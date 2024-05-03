@@ -43,9 +43,7 @@ a:hover{
 a.onea{
     color: black;
     margin: 0px;
-    background-color: white;
-}
-a.onea:hover{
+    background-color: #ffffff00;
     text-decoration: underline;
 }
 a.onea::after{
